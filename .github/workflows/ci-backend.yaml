@@ -1,4 +1,4 @@
-name: primemeiro Workflow
+name: primeiro Workflow
 on:
   push:
 jobs:
